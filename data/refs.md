@@ -1,0 +1,463 @@
+[^1]: Smith, R.; Cheeseman, P. On the Representation and Estimation of Spatial Uncertainty. Int. J. Robot. Res. 1987, 5,
+56–68. [CrossRef:http://doi.org/10.1177/027836498600500404]
+
+[^2]: Jinyu, L.; Bangbang, Y.; Danpeng, C.; Nan, W.; Guofeng, Z.; Hujun, B. Survey and evaluation of monocular
+visual-inertial SLAMalgorithms for augmented reality. Virtual Real. Intell. Hardw. 2019, 1,
+386–410. [CrossRef:http://dx.doi.org/10.1016/j.vrih.2019.07.002]
+
+[^3]: Covolan, J.P.; Sementille, A.; Sanches, S. A mapping of visual SLAM algorithms and their applications in augmented
+reality. InProceedings of the 2020 22nd Symposium on Virtual and Augmented Reality (SVR), Porto de Galinhas, Brazil,
+7–10 November2020. [CrossRef:http://dx.doi.org/10.1109/SVR51698.2020.00019]
+
+[^4]: Singandhupe, A.; La, H. A Review of SLAM Techniques and Security in Autonomous Driving. In Proceedings of the 2019
+ThirdIEEE International Conference on Robotic Computing (IRC), Naples, Italy, 25–27 February 2019; pp.
+602–607. [CrossRef:http://dx.doi.org/10.1109/IRC.2019.00122]
+
+[^5]: Dworakowski, D.; Thompson, C.; Pham-Hung, M.; Nejat, G. A Robot Architecture Using ContextSLAM to Find Products
+inUnknown Crowded Retail Environments. Robotics 2021, 10, 110. [CrossRef:http://dx.doi.org/10.3390/robotics10040110]
+
+[^6]: Ruan, K.; Wu, Z.; Xu, Q. Smart Cleaner: A New Autonomous Indoor Disinfection Robot for Combating the COVID-19
+Pandemic.Robotics 2021, 10, 87. [CrossRef:http://dx.doi.org/10.3390/robotics10030087]
+
+[^7]: Liu, C.; Zhou, C.; Cao, W.; Li, F.; Jia, P. A Novel Design and Implementation of Autonomous Robotic Car Based on
+ROS in IndoorScenario. Robotics 2020, 9, 19. [CrossRef:http://dx.doi.org/10.3390/robotics9010019]
+
+[^8]: Cadena, C.; Carlone, L.; Carrillo, H.; Latif, Y.; Scaramuzza, D.; Neira, J.; Reid, I.; Leonard, J.J. Past,
+Present, and Future ofSimultaneous Localization and Mapping: Toward the Robust-Perception Age. IEEE Trans. Robot. 2016,
+32, 1309–1332. [CrossRef:http://dx.doi.org/10.1109/TRO.2016.2624754]
+
+[^9]: Stachniss, C. Robotic Mapping and Exploration; Springer: Berlin/Heidelberg, Germany, 2009; Volume 55.
+
+[^10]: Taketomi, T.; Uchiyama, H.; Ikeda, S. Visual SLAM algorithms: A survey from 2010 to 2016. IPSJ Trans. Comput.
+Vis. Appl. 2017,9, 1–11. [CrossRef:http://dx.doi.org/10.1186/s41074-017-0027-2]
+
+[^11]: Kabzan, J.; Valls, M.; Reijgwart, V.; Hendrikx, H.; Ehmke, C.; Prajapat, M.; Bühler, A.; Gosala, N.; Gupta, M.;
+Sivanesan, R.; et al.AMZ Driverless: The Full Autonomous Racing System. J. Field Robot. 2020, 37,
+1267–1294. [CrossRef:http://dx.doi.org/10.1002/rob.21977]
+
+[^12]: Durrant-Whyte, H.; Bailey, T. Simultaneous localization and mapping: Part I. IEEE Robot. Autom. Mag. 2006, 13,
+99–110.[CrossRef:http://dx.doi.org/10.1109/MRA.2006.1638022]
+
+[^13]: Bailey, T.; Durrant-Whyte, H. Simultaneous localization and mapping (SLAM): Part II. IEEE Robot. Autom. Mag.
+2006, 13, 108–117.[CrossRef:http://dx.doi.org/10.1109/MRA.2006.1678144]
+
+[^14]: Yousif, K.; Bab-Hadiashar, A.; Hoseinnezhad, R. An Overview to Visual Odometry and Visual SLAM: Applications to
+MobileRobotics. Intell. Ind. Syst. 2015, 1, 289–311. [CrossRef:http://dx.doi.org/10.1007/s40903-015-0032-7]
+
+[^15]: Fuentes-Pacheco, J.; Ruiz-Ascencio, J.; Rendón-Mancha, J.M. Visual simultaneous localization and mapping: A
+survey. Artif.Intell. Rev. 2015, 43, 55–81. [CrossRef:http://dx.doi.org/10.1007/s10462-012-9365-8]
+
+[^16]: Servières, M.; Renaudin, V.; Dupuis, A.; Antigny, N. Visual and Visual-Inertial SLAM: State of the Art,
+Classiﬁcation, andExperimental Benchmarking. J. Sensors 2021, 2021,
+2054828. [CrossRef:http://dx.doi.org/10.1155/2021/2054828]
+
+[^17]: Gui, J.; Gu, D.; Wang, S.; Hu, H. A review of visual inertial odometry from ﬁltering and optimisation
+perspectives. Adv. Robot.2015, 29, 1–13. [CrossRef:http://dx.doi.org/10.1080/01691864.2015.1057616]
+
+[^18]: Chen, C.; Zhu, H.; Li, M.; You, S. A Review of Visual-Inertial Simultaneous Localization and Mapping from
+Filtering-Based andOptimization-Based Perspectives. Robotics 2018, 7,
+45. [CrossRef:http://dx.doi.org/10.3390/robotics7030045]
+
+[^19]: Huang, G. Visual-Inertial Navigation: A Concise Review. In Proceedings of the 2019 International Conference on
+Robotics andAutomation (ICRA), Montreal, QC, Canada, 20–24 May 2019; pp.
+9572–9582. [CrossRef:http://dx.doi.org/10.1109/ICRA.2019.8793604]
+
+[^20]: Chen, K.; Lai, Y.; Hu, S. 3D indoor scene modeling from RGB-D data: A survey. Comput. Vis. Media 2015, 1,
+267–278. [CrossRef:http://dx.doi.org/10.1007/s41095-015-0029-x]
+
+[^21]: Zhang, S.; Zheng, L.; Tao, W. Survey and Evaluation of RGB-D SLAM. IEEE Access 2021, 9,
+21367–21387. [CrossRef:http://dx.doi.org/10.1109/ACCESS.2021.3053188]
+
+[^22]: Campos, C.; Elvira, R.; Rodríguez, J.J.G.; M. Montiel, J.M.; D. Tardós, J. ORB-SLAM3: An Accurate Open-Source
+Library forVisual, Visual–Inertial, and Multimap SLAM. IEEE Trans. Robot. 2021, 37,
+1874–1890. [CrossRef:http://dx.doi.org/10.1109/TRO.2021.3075644]
+
+[^23]: Burri, M.; Nikolic, J.; Gohl, P.; Schneider, T.; Rehder, J.; Omari, S.; Achtelik, M.; Siegwart, R. The EuRoC
+micro aerial vehicledatasets. Int. J. Robot. Res. 2016, 35,
+1157–1163. [CrossRef:http://dx.doi.org/10.1177/0278364915620033]
+
+[^24]: Engel, J.; Schöps, T.; Cremers, D. LSD-SLAM: Large-Scale Direct Monocular SLAM. In Computer Vision–ECCV 2014;
+Fleet, D.,Pajdla, T., Schiele, B., Tuytelaars, T., Eds.; Springer International Publishing: Cham, Switzerland, 2014; pp.
+834–849.
+
+[^25]: Bianco, S.; Ciocca, G.; Marelli, D. Evaluating the Performance of Structure from Motion Pipelines. J. Imaging
+2018, 4, 98. [CrossRef:http://dx.doi.org/10.3390/jimaging4080098]
+
+[^26]: Lepetit, V.; Moreno-Noguer, F.; Fua, P. EPnP: An Accurate O(n) Solution to the PnP Problem. Int. J. Comput. Vis.
+2008, 81, 155.[CrossRef:http://dx.doi.org/10.1007/s11263-008-0152-6]
+
+[^27]: Davison, A.J.; Reid, I.D.; Molton, N.D.; Stasse, O. MonoSLAM: Real-Time Single Camera SLAM. IEEE Trans. Pattern
+Anal. Mach.Intell. 2007, 29,
+1052–1067. [CrossRef:http://dx.doi.org/10.1109/TPAMI.2007.1049] [PubMed:http://www.ncbi.nlm.nih.gov/pubmed/17431302]
+
+[^28]: Loo, S.Y.; Amiri, A.; Mashohor, S.; Tang, S.; Zhang, H. CNN-SVO: Improving the Mapping in Semi-Direct Visual
+OdometryUsing Single-Image Depth Prediction. In Proceedings of the 2019 International Conference on Robotics and
+Automation (ICRA),Montreal, QC, Canada, 20–24 May 2019.
+
+[^29]: Boikos, K.; Bouganis, C.S. Semi-dense SLAM on an FPGA SoC. In Proceedings of the 2016 26th International
+Conference on FieldProgrammable Logic and Applications (FPL), Lausanne, Switzerland, 29 August–2 September 2016; pp.
+1–4. [CrossRef:http://dx.doi.org/10.1109/FPL.2016.7577365]
+
+[^30]: Engel, J.; Usenko, V.; Cremers, D. A Photometrically Calibrated Benchmark For Monocular Visual Odometry. arXiv
+2016,arXiv:1607.02555.
+
+[^31]: Engel, J.; Koltun, V.; Cremers, D. Direct Sparse Odometry. IEEE Trans. Pattern Anal. Mach. Intell. 2018, 40,
+611–625. [CrossRef:http://dx.doi.org/10.1109/TPAMI.2017.2658577][PubMed:http://www.ncbi.nlm.nih.gov/pubmed/28422651]
+
+[^32]: Canovas, B.; Rombaut, M.; Nègre, A.; Pellerin, D.; Olympieff, S. Speed and Memory Efﬁcient Dense RGB-D SLAM in
+DynamicScenes. In Proceedings of the IROS 2020—IEEE/RSJ International Conference on Intelligent Robots and Systems, Las
+Vegas, NV,USA, 25–29 October 2020; pp. 4996–5001. [CrossRef:http://dx.doi.org/10.1109/IROS45743.2020.9341542]
+
+[^33]: Bresson, G.; Alsayed, Z.; Yu, L.; Glaser, S. Simultaneous Localization and Mapping: A Survey of Current Trends in
+AutonomousDriving. IEEE Trans. Intell. Veh. 2017, 2, 194–220. [CrossRef:http://dx.doi.org/10.1109/TIV.2017.2749181]
+
+[^34]: Vincke, B.; Elouardi, A.; Lambert, A. Design and evaluation of an embedded system based SLAM applications. In
+Proceedingsof the 2010 IEEE/SICE International Symposium on System Integration, Sendai, Japan, 21–22 December 2010; pp.
+224–229.[CrossRef:http://dx.doi.org/10.1109/SII.2010.5708329]
+
+[^35]: Vincke, B.; Elouardi, A.; Lambert, A.; Merigot, A. Efﬁcient implementation of EKF-SLAM on a multi-core embedded
+system. InProceedings of the IECON 2012—38th Annual Conference on IEEE Industrial Electronics Society, Montreal, QC,
+Canada, 25–28October 2012; pp. 3049–3054. [CrossRef:http://dx.doi.org/10.1109/IECON.2012.6389411]
+
+[^36]: Klein, G.; Murray, D. Parallel Tracking and Mapping for Small AR Workspaces. In Proceedings of the 2007 6th IEEE
+and ACMInternational Symposium on Mixed and Augmented Reality, Nara, Japan, 13–16 November 2007; pp.
+225–234. [CrossRef:http://dx.doi.org/10.1109/ISMAR.2007.4538852]
+
+[^37]: Serrata, A.A.J.; Yang, S.; Li, R. An intelligible implementation of FastSLAM2.0 on a low-power embedded
+architecture. EURASIPJ. Embed. Syst. 2017, 2017, 27.
+
+[^38]: Newcombe, R.A.; Lovegrove, S.J.; Davison, A.J. DTAM: Dense tracking and mapping in real-time. In Proceedings of
+the 2011International Conference on Computer Vision, Barcelona, Spain, 6–13 November 2011; pp. 2320–2327.
+
+[^39]: Ondrúška, P.; Kohli, P.; Izadi, S. MobileFusion: Real-Time Volumetric Surface Reconstruction and Dense Tracking
+on MobilePhones. IEEE Trans. Vis. Comput. Graph. 2015, 21,
+1251–1258. [CrossRef:http://dx.doi.org/10.1109/TVCG.2015.2459902]
+
+[^40]: Forster, C.; Pizzoli, M.; Scaramuzza, D. SVO: Fast semi-direct monocular visual odometry. In Proceedings of the
+2014 IEEEInternational Conference on Robotics and Automation (ICRA), Hong Kong, China, 31 May–7 June 2014; pp.
+15–22. [CrossRef:http://dx.doi.org/10.1109/ICRA.2014.6906584]
+
+[^41]: Mur-Artal, R.; Montiel, J.; Tardos, J. ORB-SLAM: A versatile and accurate monocular SLAM system. IEEE Trans.
+Robot. 2015,31, 1147–1163. [CrossRef:http://dx.doi.org/10.1109/TRO.2015.2463671]
+
+[^42]: Forster, C.; Zhang, Z.; Gassner, M.; Werlberger, M.; Scaramuzza, D. SVO: Semidirect Visual Odometry for Monocular
+andMulticamera Systems. IEEE Trans. Robot. 2017, 33, 249–265. [CrossRef:http://dx.doi.org/10.1109/TRO.2016.2623335]
+
+[^43]: Boikos, K.; Bouganis, C.S. A high-performance system-on-chip architecture for direct tracking for SLAM. In
+Proceedings of the2017 27th International Conference on Field Programmable Logic and Applications (FPL), Gent, Belgium,
+4–6 September 2017;pp. 1–7. [CrossRef:http://dx.doi.org/10.23919/FPL.2017.8056831]
+
+[^44]: Mur-Artal, R.; Tardós, J.D. ORB-SLAM2: An Open-Source SLAM System for Monocular, Stereo, and RGB-D Cameras. IEEE
+Trans.Robot. 2017, 33, 1255–1262. [CrossRef:http://dx.doi.org/10.1109/TRO.2017.2705103]
+
+[^45]: Zhan, Z.; Jian, W.; Li, Y.; Yue, Y. A SLAM Map Restoration Algorithm Based on Submaps and an Undirected Connected
+Graph.IEEE Access 2021, 9, 12657–12674. [CrossRef:http://dx.doi.org/10.1109/ACCESS.2021.3049864]
+
+[^46]: Abouzahir, M.; Elouardi, A.; Latif, R.; Bouaziz, S.; Tajer, A. Embedding SLAM algorithms: Has it come of age?
+Robot. Auton. Syst.2018, 100, 14–26. [CrossRef:http://dx.doi.org/10.1016/j.robot.2017.10.019]
+
+[^47]: Yu, J.; Gao, F.; Cao, J.; Yu, C.; Zhang, Z.; Huang, Z.; Wang, Y.; Yang, H. CNN-based Monocular Decentralized SLAM
+on embeddedFPGA. In Proceedings of the 2020 IEEE International Parallel and Distributed Processing Symposium Workshops (
+IPDPSW),New Orleans, LA, USA, 18–22 May 2020; pp. 66–73. [CrossRef:http://dx.doi.org/10.1109/IPDPSW50202.2020.00019]
+
+[^48]: Tateno, K.; Tombari, F.; Laina, I.; Navab, N. CNN-SLAM: Real-Time Dense Monocular SLAM with Learned Depth
+Prediction. InProceedings of the 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Honolulu, HI,
+USA, 21–26 July2017; pp. 6565–6574. [CrossRef:http://dx.doi.org/10.1109/CVPR.2017.695]
+
+[^49]: Gao, X.; Wang, R.; Demmel, N.; Cremers, D. LDSO: Direct Sparse Odometry with Loop Closure. In Proceedings of the
+2018IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Madrid, Spain, 1–5 October 2018.
+
+[^50]: Davison, A.J. SceneLib 1.0. 2006. Available online: https://www.doc.ic.ac.uk/~ajd/Scene/index.html (accessed on
+21 January2022).
+
+[^51]: Klein, G.; Murray, D. Parallel Tracking and Mapping on a camera phone. In Proceedings of the 2009 8th IEEE
+InternationalSymposium on Mixed and Augmented Reality, Orlando, FL, USA, 19–22 October 2009; pp. 83–86.
+
+[^52]: Oxford-PTAM. Available online: https://github.com/Oxford-PTAM/PTAM-GPL (accessed on 21 January 2022).
+
+[^53]: OpenDTAM. Available online: https://github.com/anuranbaka/OpenDTAM (accessed on 21 January 2022).
+
+[^54]: SVO. Available online: https://github.com/uzh-rpg/rpg_svo (accessed on 21 January 2022).
+
+[^55]: LSD-SLAM: Large-Scale Direct Monocular SLAM. Available online: https://github.com/tum-vision/lsd_slam (accessed
+on 21January 2022).
+
+[^56]: ORB-SLAM2. Available online: https://github.com/raulmur/ORB_SLAM2 (accessed on 21 January 2022).
+
+[^57]: CNN SLAM. Available online: https://github.com/iitmcvg/CNN_SLAM (accessed on 21 January 2022).
+
+[^58]: DSO: Direct Sparse Odometry. Available online: https://github.com/JakobEngel/dso (accessed on 21 January 2022).
+
+[^59]: Piat, J.; Fillatreau, P.; Tortei, D.; Brenot, F.; Devy, M. HW/SW co-design of a visual SLAM application.
+J.-Real-Time Image Process.2018. [CrossRef:http://dx.doi.org/10.1007/s11554-018-0836-2]
+
+[^60]: DPU for Convolutional Neural Network. Available
+online: https://www.xilinx.com/products/intellectual-property/dpu.html#overview (accessed on 21 January 2022).
+
+[^61]: Xu, Z.; Yu, J.; Yu, C.; Shen, H.; Wang, Y.; Yang, H. CNN-based Feature-point Extraction for Real-time Visual SLAM
+on EmbeddedFPGA. In Proceedings of the 2020 IEEE 28th Annual International Symposium on Field-Programmable Custom
+ComputingMachines (FCCM), Fayetteville, AR, USA, 3–6 May 2020; pp. 33–37.
+
+[^62]: Mourikis, A.I.; Roumeliotis, S.I. A Multi-State Constraint Kalman Filter for Vision-aided Inertial Navigation. In
+Proceedings ofthe 2007 IEEE International Conference on Robotics and Automation, Roma, Italy, 10–14 April 2007; pp.
+3565–3572.
+
+[^63]: Sun, K.; Mohta, K.; Pfrommer, B.; Watterson, M.; Liu, S.; Mulgaonkar, Y.; Taylor, C.J.; Kumar, V. Robust Stereo
+Visual InertialOdometry for Fast Autonomous Flight. IEEE Robot. Autom. Lett. 2018, 3,
+965–972. [CrossRef:http://dx.doi.org/10.1109/LRA.2018.2793349]
+
+[^64]: Li, S.P.; Zhang, T.; Gao, X.; Wang, D.; Xian, Y. Semi-direct monocular visual and visual-inertial SLAM with loop
+closure detection.Robot. Auton. Syst. 2019, 112, 201–210. [CrossRef:http://dx.doi.org/10.1016/j.robot.2018.11.009]
+
+[^65]: Delmerico, J.; Scaramuzza, D. A Benchmark Comparison of Monocular Visual-Inertial Odometry Algorithms for Flying
+Robots.In Proceedings of the 2018 IEEE International Conference on Robotics and Automation (ICRA), Brisbane, Australia,
+21–25 May2018; pp. 2502–2509. [CrossRef:http://dx.doi.org/10.1109/ICRA.2018.8460664]
+
+[^66]: Li, M.; Mourikis, A.I. Improving the accuracy of EKF-based visual-inertial odometry. In Proceedings of the 2012
+IEEE InternationalConference on Robotics and Automation, Saint Paul, MI, USA, 14–18 May 2012; pp. 828–835.
+
+[^67]: Leutenegger, S.; Lynen, S.; Bosse, M.; Siegwart, R.; Furgale, P. Keyframe-Based Visual-Inertial Odometry Using
+NonlinearOptimization. Int. J. Robot. Res. 2014, 34, 314–334. [CrossRef:http://dx.doi.org/10.1177/0278364914554813]
+
+[^68]: Nikolic, J.; Rehder, J.; Burri, M.; Gohl, P.; Leutenegger, S.; Furgale, P.T.; Siegwart, R. A synchronized
+visual-inertial sensor systemwith FPGA pre-processing for accurate real-time SLAM. In Proceedings of the 2014 IEEE
+International Conference on Roboticsand Automation (ICRA), Hong Kong, China, 31 May–7 June 2014; pp.
+431–437. [CrossRef:http://dx.doi.org/10.1109/ICRA.2014.6906892]
+
+[^69]: Bloesch, M.; Omari, S.; Hutter, M.; Siegwart, R. Robust visual inertial odometry using a direct EKF-based
+approach. InProceedings of the 2015 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Hamburg,
+Germany,28 September–3 October 2015; pp. 298–304. [CrossRef:http://dx.doi.org/10.1109/IROS.2015.7353389]
+
+[^70]: Von Stumberg, L.; Usenko, V.; Cremers, D. Direct Sparse Visual-Inertial Odometry Using Dynamic Marginalization.
+InProceedings of the 2018 IEEE International Conference on Robotics and Automation (ICRA), Brisbane, Australia, 21–25
+May 2018;pp. 2510–2517. [CrossRef:http://dx.doi.org/10.1109/ICRA.2018.8462905]
+
+[^71]: Mur-Artal, R.; Tardós, J.D. Visual-Inertial Monocular SLAM With Map Reuse. IEEE Robot. Autom. Lett. 2017, 2,
+796–803.[CrossRef:http://dx.doi.org/10.1109/LRA.2017.2653359]
+
+[^72]: Silveira, O.C.B.; de Melo, J.G.O.C.; Moreira, L.A.S.; Pinto, J.B.N.G.; Rodrigues, L.R.L.; Rosa, P.F.F. Evaluating
+a Visual SimultaneousLocalization and Mapping Solution on Embedded Platforms. In Proceedings of the 2020 IEEE 29th
+International Symposium onIndustrial Electronics (ISIE), Delft, The Netherlands, 17–19 June 2020; pp.
+530–535. [CrossRef:http://dx.doi.org/10.1109/ISIE45063.2020.9152370]
+
+[^73]: Qin, T.; Li, P.; Shen, S. VINS-Mono: A Robust and Versatile Monocular Visual-Inertial State Estimator. IEEE
+Trans. Robot. 2018,34, 1004–1020. [CrossRef:http://dx.doi.org/10.1109/TRO.2018.2853729]
+
+[^74]: Paul, M.K.; Wu, K.; Hesch, J.A.; Nerurkar, E.D.; Roumeliotis, S.I. A comparative analysis of tightly-coupled
+monocular, binocular,and stereo VINS. In Proceedings of the 2017 IEEE International Conference on Robotics and
+Automation (ICRA), Singapore,29 May–3 June 2017; pp. 165–172. [CrossRef:http://dx.doi.org/10.1109/ICRA.2017.7989022]
+
+[^75]: Campos, C.; Montiel, J.M.; Tardós, J.D. Inertial-Only Optimization for Visual-Inertial Initialization. In
+Proceedings of the 2020IEEE International Conference on Robotics and Automation (ICRA), Paris, France, 31 May–31 August
+2020; pp. 51–57. [CrossRef:http://dx.doi.org/10.1109/ICRA40945.2020.9197334]
+
+[^76]: Seiskari, O.; Rantalankila, P.; Kannala, J.; Ylilammi, J.; Rahtu, E.; Solin, A. HybVIO: Pushing the Limits of
+Real-Time Visual-InertialOdometry. In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (
+WACV), Waikoloa, HI,USA, 4–8 January 2022; pp. 701–710.
+
+[^77]: Merzlyakov, A.; Macenski, S. A Comparison of Modern General-Purpose Visual SLAM Approaches. In Proceedings of the
+2021IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Prague, Czech Republic, 27 September–1
+October2021; pp. 9190–9197. [CrossRef:http://dx.doi.org/10.1109/IROS51168.2021.9636615]
+
+[^78]: dvo. Available online: https://github.com/daniilidis-group/msckf_mono (accessed on 21 January 2022).
+
+[^79]: msckf_vio. Available online: https://github.com/KumarRobotics/msckf_vio (accessed on 21 January 2022).
+
+[^80]: OKVIS. Available online: https://github.com/ethz-asl/okvis (accessed on 21 January 2022).
+
+[^81]: ROVIO. Available online: https://github.com/ethz-asl/rovio (accessed on 21 January 2022).
+
+[^82]: VINS-Mono. Available online: https://github.com/HKUST-Aerial-Robotics/VINS-Mono (accessed on 21 January 2022).
+
+[^83]: VI-Stereo-DSO. Available online: https://github.com/RonaldSun/VI-Stereo-DSO (accessed on 21 January 2022).
+
+[^84]: ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM. Available
+online: https://github.com/UZ-SLAMLab/ORB_SLAM3 (accessed on 21 January 2022).
+
+[^85]: Aslam, M.S.; Aziz, M.I.; Naveed, K.; uz Zaman, U.K. An RPLiDAR based SLAM equipped with IMU for Autonomous
+Navigationof Wheeled Mobile Robot. In Proceedings of the 2020 IEEE 23rd International Multitopic Conference (INMIC),
+Bahawalpur,Pakistan, 5–7 November 2020; pp. 1–5. [CrossRef:http://dx.doi.org/10.1109/INMIC50486.2020.9318133]
+
+[^86]: Nguyen, T.M.; Yuan, S.; Cao, M.; Nguyen, T.H.; Xie, L. VIRAL SLAM: Tightly Coupled Camera-IMU-UWB-Lidar SLAM.
+arXiv2021, arXiv:2105.03296.
+
+[^87]: Chang, L.; Niu, X.; Liu, T. GNSS/IMU/ODO/LiDAR-SLAM Integrated Navigation System Using IMU/ODO
+Pre-Integration.Sensors 2020, 20, 4702. [CrossRef:http://dx.doi.org/10.3390/s20174702]
+
+[^88]: Zuñiga-Noël, D.; Moreno, F.A.; Gonzalez-Jimenez, J. An Analytical Solution to the IMU Initialization Problem for
+Visual-InertialSystems. IEEE Robot. Autom. Lett. 2021, 6,
+6116–6122. [CrossRef:http://dx.doi.org/10.1109/LRA.2021.3091407]
+
+[^89]: Petit, B.; Guillemard, R.; Gay-Bellile, V. Time Shifted IMU Preintegration for Temporal Calibration in
+Incremental Visual-InertialInitialization. In Proceedings of the 2020 International Conference on 3D Vision (3DV),
+Fukuoka, Japan, 25–28 November 2020;pp. 171–179. [CrossRef:http://dx.doi.org/10.1109/3DV50981.2020.00027]
+
+[^90]: Newcombe, R.A.; Izadi, S.; Hilliges, O.; Molyneaux, D.; Kim, D.; Davison, A.J.; Kohi, P.; Shotton, J.; Hodges,
+S.; Fitzgibbon, A.KinectFusion: Real-time dense surface mapping and tracking. In Proceedings of the 2011 10th IEEE
+International Symposium onMixed and Augmented Reality, Basel, Switzerland, 26–29 October 2011; pp. 127–136.
+
+[^91]: Jin, Q.; Liu, Y.; Man, Y.; Li, F. Visual SLAM with RGB-D Cameras. In Proceedings of the 2019 Chinese Control
+Conference (CCC),Guangzhou, China, 27–30 July 2019; pp.
+4072–4077. [CrossRef:http://dx.doi.org/10.23919/ChiCC.2019.8865270]
+
+[^92]: Nardi, L.; Bodin, B.; Zia, M.Z.; Mawer, J.; Nisbet, A.; Kelly, P.H.J.; Davison, A.J.; Luján, M.; O’Boyle, M.F.P.;
+Riley, G.D.; et al.Introducing SLAMBench, a performance and accuracy benchmarking methodology for SLAM. In Proceedings
+of the 2015 IEEEInternational Conference on Robotics and Automation (ICRA), Seattle, WA, USA, 26–30 May 2015; pp.
+5783–5790.
+
+[^93]: Bodin, B.; Nardi, L.; Zia, M.Z.; Wagstaff, H.; Shenoy, G.S.; Emani, M.; Mawer, J.; Kotselidis, C.; Nisbet, A.;
+Lujan, M.; et al.Integrating algorithmic parameters into benchmarking and design space exploration in 3D scene
+understanding. In Proceedingsof the 2016 International Conference on Parallel Architecture and Compilation Techniques (
+PACT), Haifa, Israel, 11–15 September2016; pp. 57–69. [CrossRef:http://dx.doi.org/10.1145/2967938.2967963]
+
+[^94]: Salas-Moreno, R.F.; Newcombe, R.A.; Strasdat, H.; Kelly, P.H.; Davison, A.J. SLAM++: Simultaneous Localisation
+and Mapping atthe Level of Objects. In Proceedings of the 2013 IEEE Conference on Computer Vision and Pattern
+Recognition, Portland, OR,USA, 23–28 June 2013; pp. 1352–1359. [CrossRef:http://dx.doi.org/10.1109/CVPR.2013.178]
+
+[^95]: Kerl, C.; Sturm, J.; Cremers, D. Dense visual SLAM for RGB-D cameras. In Proceedings of the 2013 IEEE/RSJ
+InternationalConference on Intelligent Robots and Systems, Tokyo, Japan, 3–7 November 2013; pp. 2100–2106.
+
+[^96]: Endres, F.; Hess, J.; Sturm, J.; Cremers, D.; Burgard, W. 3-D Mapping With an RGB-D Camera. IEEE Trans. Robot.
+2014, 30, 177–187.[CrossRef:http://dx.doi.org/10.1109/TRO.2013.2279412]
+
+[^97]: KinectFusion. Available online: https://github.com/ParikaGoel/KinectFusion (accessed on 21 January 2022).
+
+[^98]: rgbdslam. Available online: http://ros.org/wiki/rgbdslam (accessed on 21 January 2022).
+
+[^99]: dvo. Available online: https://github.com/tum-vision/dvo (accessed on 21 January 2022).
+
+[^100]: Belshaw, M.S.; Greenspan, M.A. A high speed iterative closest point tracker on an FPGA platform. In Proceedings
+of the 2009IEEE 12th International Conference on Computer Vision Workshops, ICCV Workshops, Kyoto, Japan, 27 September–4
+October2009; pp. 1449–1456. [CrossRef:http://dx.doi.org/10.1109/ICCVW.2009.5457442]
+
+[^101]: Williams, B. Evaluation of a SoC for Real-time 3D SLAM. Doctoral Dissertation, Iowa State University, Ames, IA,
+USA, 2017.
+
+[^102]: Gautier, Q.; Shearer, A.; Matai, J.; Richmond, D.; Meng, P.; Kastner, R. Real-time 3D reconstruction for FPGAs:
+A case studyfor evaluating the performance, area, and programmability trade-offs of the Altera OpenCL SDK. In
+Proceedings of the 2014International Conference on Field-Programmable Technology (FPT), Shanghai, China, 10–12 December
+2014; pp. 326–329.[CrossRef:http://dx.doi.org/10.1109/FPT.2014.7082810]
+
+[^103]: Zhang, T.; Zhang, H.; Li, Y.; Nakamura, Y.; Zhang, L. FlowFusion: Dynamic Dense RGB-D SLAM Based on Optical
+Flow. InProceedings of the 2020 IEEE International Conference on Robotics and Automation (ICRA), Paris, France, 31
+May–31 August2020; pp. 7322–7328. [CrossRef:http://dx.doi.org/10.1109/ICRA40945.2020.9197349]
+
+[^104]: Dai, W.; Zhang, Y.; Li, P.; Fang, Z.; Scherer, S. RGB-D SLAM in Dynamic Environments Using Point Correlations.
+IEEE Trans.Pattern Anal. Mach. Intell. 2020, 44, 373–389. [CrossRef:http://dx.doi.org/10.1109/TPAMI.2020.3010942]
+
+[^105]: Ai, Y.; Rui, T.; Lu, M.; Fu, L.; Liu, S.; Wang, S. DDL-SLAM: A Robust RGB-D SLAM in Dynamic Environments
+Combined WithDeep Learning. IEEE Access 2020, 8, 162335–162342. [CrossRef:http://dx.doi.org/10.1109/ACCESS.2020.2991441]
+
+[^106]: Deng, X.; Zhang, Z.; Sintov, A.; Huang, J.; Bretl, T. Feature-constrained Active Visual SLAM for Mobile Robot
+Navigation. InProceedings of the 2018 IEEE International Conference on Robotics and Automation (ICRA), Brisbane,
+Australia, 21–25 May 2018;pp. 7233–7238. [CrossRef:http://dx.doi.org/10.1109/ICRA.2018.8460721]
+
+[^107]: Jaenal, A.; Zuñiga-Nöel, D.; Gomez-Ojeda, R.; Gonzalez-Jimenez, J. Improving Visual SLAM in Car-Navigated Urban
+Environ-ments with Appearance Maps. In Proceedings of the 2020 IEEE/RSJ International Conference on Intelligent Robots
+and Systems(IROS), Las Vegas, NV, USA, 25–29 October 2020; pp.
+4679–4685. [CrossRef:http://dx.doi.org/10.1109/IROS45743.2020.9341451]
+
+[^108]: Li, D.; Shi, X.; Long, Q.; Liu, S.; Yang, W.; Wang, F.; Wei, Q.; Qiao, F. DXSLAM: A Robust and Efﬁcient Visual
+SLAM System withDeep Features. In Proceedings of the 2020 IEEE/RSJ International Conference on Intelligent Robots and
+Systems (IROS), LasVegas, NV, USA, 25–29 October 2020; pp.
+4958–4965. [CrossRef:http://dx.doi.org/10.1109/IROS45743.2020.9340907]
+
+[^109]: Xu, Q.; Kuang, H.; Kneip, L.; Schwertfeger, S. Rethinking the Fourier-Mellin Transform: Multiple Depths in the
+Camera’s View.Remote Sens. 2021, 13, 1000. [CrossRef:http://dx.doi.org/10.3390/rs13051000]
+
+[^110]: Xu, Q.; Chavez, A.G.; Bülow, H.; Birk, A.; Schwertfeger, S. Improved Fourier Mellin Invariant for Robust
+Rotation Estimationwith Omni-Cameras. In Proceedings of the 2019 IEEE International Conference on Image Processing (
+ICIP), Taipei, Taiwan, 22–25September 2019; pp. 320–324. [CrossRef:http://dx.doi.org/10.1109/ICIP.2019.8802933]
+
+[^111]: Scona, R.; Jaimez, M.; Petillot, Y.R.; Fallon, M.; Cremers, D. StaticFusion: Background Reconstruction for Dense
+RGB-D SLAM inDynamic Environments. In Proceedings of the 2018 IEEE International Conference on Robotics and Automation (
+ICRA), Brisbane,Australia, 21–25 May 2018; pp. 3849–3856. [CrossRef:http://dx.doi.org/10.1109/ICRA.2018.8460681]
+
+[^112]: Soares, J.C.V.; Gattass, M.; Meggiolaro, M.A. Visual SLAM in Human Populated Environments: Exploring the
+Trade-off betweenAccuracy and Speed of YOLO and Mask R-CNN. In Proceedings of the 2019 19th International Conference on
+Advanced Robotics(ICAR), Horizonte, Brazil, 2–6 December 2019; pp.
+135–140. [CrossRef:http://dx.doi.org/10.1109/ICAR46387.2019.8981617]
+
+[^113]: Soares, J.C.V.; Gattass, M.; Meggiolaro, M.A. Crowd-SLAM: Visual SLAM Towards Crowded Environments using
+ObjectDetection. J. Intell. Robot. Syst. 2021, 102, 50. [CrossRef:http://dx.doi.org/10.1007/s10846-021-01414-1]
+
+[^114]: Van Opdenbosch, D.; Aykut, T.; Alt, N.; Steinbach, E. Efﬁcient Map Compression for Collaborative Visual SLAM. In
+Proceedingsof the 2018 IEEE Winter Conference on Applications of Computer Vision (WACV), Lake Tahoe, NV, USA, 12–15
+March 2018;pp. 992–1000. [CrossRef:http://dx.doi.org/10.1109/WACV.2018.00114]
+
+[^115]: Wan, Z.; Yu, B.; Li, T.; Tang, J.; Wang, Y.; Raychowdhury, A.; Liu, S. A Survey of FPGA-Based Robotic Computing.
+IEEE CircuitsSyst. Mag. 2021, 21, 48–74. [CrossRef:http://dx.doi.org/10.1109/MCAS.2021.3071609]
+
+[^116]: Li, R.; Wang, S.; Long, Z.; Gu, D. UnDeepVO: Monocular Visual Odometry Through Unsupervised Deep Learning.
+InProceedings of the 2018 IEEE International Conference on Robotics and Automation (ICRA), Brisbane, Australia, 21–25
+May 2018;pp. 7286–7291. [CrossRef:http://dx.doi.org/10.1109/ICRA.2018.8461251]
+
+[^117]: Li, R.; Wang, S.; Gu, D. DeepSLAM: A Robust Monocular SLAM System With Unsupervised Deep Learning. IEEE Trans.
+Ind.Electron. 2021, 68, 3577–3587. [CrossRef:http://dx.doi.org/10.1109/TIE.2020.2982096]
+
+[^118]: Kang, R.; Shi, J.; Li, X.; Liu, Y.; Liu, X. DF-SLAM: A Deep-Learning Enhanced Visual SLAM System based on Deep
+Local Features.arXiv 2019, arXiv:1901.07223
+
+[^119]: Zhao, C.; Sun, Q.; Zhang, C.; Tang, Y.; Qian, F. Monocular depth estimation based on deep learning: An overview.
+Sci. ChinaTechnol. Sci. 2020, 63, 1612–1627. [CrossRef:http://dx.doi.org/10.1007/s11431-020-1582-8]
+
+[^120]: Xiaogang, R.; Wenjing, Y.; Jing, H.; Peiyuan, G.; Wei, G. Monocular Depth Estimation Based on Deep Learning: A
+Survey. InProceedings of the 2020 Chinese Automation Congress (CAC), Shanghai, China, 6–8 November 2020; pp.
+2436–2440. [CrossRef:http://dx.doi.org/10.1109/CAC51589.2020.9327548]
+
+[^121]: Ming, Y.; Meng, X.; Fan, C.; Yu, H. Deep learning for monocular depth estimation: A review. Neurocomputing 2021,
+438, 14–33.[CrossRef:http://dx.doi.org/10.1016/j.neucom.2020.12.089]
+
+[^122]: Doherty, K.; Fourie, D.; Leonard, J. Multimodal Semantic SLAM with Probabilistic Data Association. In
+Proceedings of the 2019International Conference on Robotics and Automation (ICRA), Montreal, QC, Canada, 20–24 May 2019;
+pp. 2419–2425. [CrossRef:http://dx.doi.org/10.1109/ICRA.2019.8794244]
+
+[^123]: Cao, Y.; Hu, L.; Kneip, L. Representations and Benchmarking of Modern Visual SLAM Systems. Sensors 2020, 20,
+2572. [CrossRef:http://dx.doi.org/10.3390/s20092572][PubMed:http://www.ncbi.nlm.nih.gov/pubmed/32366018]
+
+[^124]: Sun, Y.; Liu, M.; Meng, M.Q.H. Improving RGB-D SLAM in dynamic environments: A motion removal approach. Robot.
+Auton.Syst. 2017, 89, 110–122. [CrossRef:http://dx.doi.org/10.1016/j.robot.2016.11.012]
+
+[^125]: Sun, Y.; Liu, M.; Meng, M.Q.H. Motion removal for reliable RGB-D SLAM in dynamic environments. Robot. Auton.
+Syst. 2018,108, 115–128. [CrossRef:http://dx.doi.org/10.1016/j.robot.2018.07.002]
+
+[^126]: Xiao, L.; Wang, J.; Qiu, X.; Rong, Z.; Zou, X. Dynamic-SLAM: Semantic monocular visual localization and mapping
+based ondeep learning in dynamic environment. Robot. Auton. Syst. 2019, 117,
+1–16. [CrossRef:http://dx.doi.org/10.1016/j.robot.2019.03.012]
+
+[^127]: Bescos, B.; Campos, C.; Tardós, J.D.; Neira, J. DynaSLAM II: Tightly-Coupled Multi-Object Tracking and SLAM.
+IEEE Robot.Autom. Lett. 2021, 6, 5191–5198. [CrossRef:http://dx.doi.org/10.1109/LRA.2021.3068640]
+
+[^128]: Sturm, J.; Engelhard, N.; Endres, F.; Burgard, W.; Cremers, D. A benchmark for the evaluation of RGB-D SLAM
+systems. InProceedings of the 2012 IEEE/RSJ International Conference on Intelligent Robots and Systems, Algarve,
+Portugal, 7–12 October2012; pp. 573–580. [CrossRef:http://dx.doi.org/10.1109/IROS.2012.6385773]
+
+[^129]: Geiger, A.; Lenz, P.; Stiller, C.; Urtasun, R. Vision meets robotics: The KITTI dataset. Int. J. Robot. Res.
+2013, 32, 1231–1237.[CrossRef:http://dx.doi.org/10.1177/0278364913491297]
+
+[^130]: Handa, A.; Whelan, T.; McDonald, J.; Davison, A.J. A benchmark for RGB-D visual odometry, 3D reconstruction and
+SLAM. InProceedings of the 2014 IEEE International Conference on Robotics and Automation (ICRA), Hong Kong, China, 31
+May–7 June2014; pp. 1524–1531. [CrossRef:http://dx.doi.org/10.1109/ICRA.2014.6907054]
+
+[^131]: Whelan, T.; Kaess, M.; Johannsson, H.; Fallon, M.; Leonard, J.J.; McDonald, J. Real-time large-scale dense RGB-D
+SLAM withvolumetric fusion. Int. J. Robot. Res. 2015, 34, 598–626. [CrossRef:http://dx.doi.org/10.1177/0278364914551008]
+
+[^132]: Schubert, D.; Goll, T.; Demmel, N.; Usenko, V.; Stückler, J.; Cremers, D. The TUM VI Benchmark for Evaluating
+Visual-InertialOdometry. In Proceedings of the 2018 IEEE/RSJ International Conference on Intelligent Robots and
+Systems (IROS), Madrid,Spain, 1–5 October 2018; pp. 1680–1687. [CrossRef:http://dx.doi.org/10.1109/IROS.2018.8593419]
+
+[^133]: RGB-D SLAM Dataset and Benchmark. Available online: https://vision.in.tum.de/data/datasets/rgbd-dataset (
+accessed on21 January 2022).
+
+[^134]: KITTI-360. Available online: http://www.cvlibs.net/datasets/kitti/ (accessed on 21 January 2022).
+
+[^135]: ICL-NUIM. Available online: https://www.doc.ic.ac.uk/~ahanda/VaFRIC/iclnuim.html (accessed on 21 January 2022).
+
+[^136]: The EuRoC MAV Dataset. Available
+online: https://projects.asl.ethz.ch/datasets/doku.php?id=kmavvisualinertialdatasets(accessed on 21 January 2022).
+
+[^137]: Monocular Visual Odometry Dataset. Available online: http://vision.in.tum.de/mono-dataset (accessed on 21
+January 2022).
+
+[^138]: Visual-Inertial Dataset. Available online: https://vision.in.tum.de/data/datasets/visual-inertial-dataset (
+accessed on 21January 2022).View publication statsView publication stats
